@@ -1,0 +1,121 @@
+id,predicted_state,predicted_intensity,confidence,uncertain_flag,what_to_do,when_to_do,supportive_message
+10001,focused,3,0.7746,0,journaling,now,Your mind is clear and ready. Try a few minutes of journaling right now — it'll help you make the most of this moment.
+10002,restless,3,0.5199,0,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10003,focused,3,0.3976,1,journaling,within_15_min,Your mind is clear and ready. Try a few minutes of journaling in the next few minutes — it'll help you make the most of this moment.
+10004,calm,3,0.5534,0,deep_work,within_15_min,"You're in a calm, centered place. Try a focused deep-work session in the next few minutes — it'll help you make the most of this moment."
+10005,calm,3,0.4531,1,journaling,within_15_min,"You're in a calm, centered place. Try a few minutes of journaling in the next few minutes — it'll help you make the most of this moment."
+10006,mixed,3,0.5104,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10007,focused,3,0.2731,1,journaling,within_15_min,Your mind is clear and ready. Try a few minutes of journaling in the next few minutes — it'll help you make the most of this moment.
+10008,overwhelmed,3,0.3502,1,box_breathing,now,You're carrying a lot right now. Try a short box-breathing exercise right now — it'll help you settle and reset.
+10009,restless,3,0.5436,0,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10010,overwhelmed,3,0.3431,1,box_breathing,within_15_min,You're carrying a lot right now. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10011,neutral,3,0.4545,1,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10012,neutral,3,0.1902,1,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10013,focused,3,0.2068,1,deep_work,now,Your mind is clear and ready. Try a focused deep-work session right now — it'll help you make the most of this moment.
+10014,restless,3,0.366,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10015,neutral,3,0.4927,1,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10016,neutral,3,0.6878,0,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10017,mixed,3,0.5982,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10018,mixed,3,0.7454,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10019,focused,3,0.7328,0,deep_work,now,Your mind is clear and ready. Try a focused deep-work session right now — it'll help you make the most of this moment.
+10020,calm,3,0.3673,1,light_planning,within_15_min,"You're in a calm, centered place. Try some light planning or a to-do list in the next few minutes — it'll help you make the most of this moment."
+10021,mixed,3,0.4095,1,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10022,calm,3,0.5111,0,deep_work,now,"You're in a calm, centered place. Try a focused deep-work session right now — it'll help you make the most of this moment."
+10023,neutral,3,0.5922,0,journaling,later_today,"You seem in a steady, balanced place. Try a few minutes of journaling a little later today — it'll help you make the most of this moment."
+10024,neutral,3,0.5942,0,journaling,later_today,"You seem in a steady, balanced place. Try a few minutes of journaling a little later today — it'll help you make the most of this moment."
+10025,neutral,3,0.2024,1,journaling,later_today,"You seem in a steady, balanced place. Try a few minutes of journaling a little later today — it'll help you make the most of this moment."
+10026,restless,2,0.336,1,box_breathing,later_today,"You seem to have restless energy that needs somewhere to go. It seems mild, so gentle action is enough. Try a short box-breathing exercise a little later today — it'll help you settle and reset."
+10027,mixed,3,0.4885,1,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10028,mixed,3,0.3912,1,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10029,overwhelmed,3,0.4228,1,box_breathing,now,You're carrying a lot right now. Try a short box-breathing exercise right now — it'll help you settle and reset.
+10030,calm,3,0.3096,1,journaling,within_15_min,"You're in a calm, centered place. Try a few minutes of journaling in the next few minutes — it'll help you make the most of this moment."
+10031,focused,3,0.2891,1,deep_work,within_15_min,Your mind is clear and ready. Try a focused deep-work session in the next few minutes — it'll help you make the most of this moment.
+10032,focused,3,0.2973,1,journaling,now,Your mind is clear and ready. Try a few minutes of journaling right now — it'll help you make the most of this moment.
+10033,overwhelmed,3,0.5464,0,box_breathing,now,You're carrying a lot right now. Try a short box-breathing exercise right now — it'll help you settle and reset.
+10034,neutral,3,0.3797,1,journaling,later_today,"You seem in a steady, balanced place. Try a few minutes of journaling a little later today — it'll help you make the most of this moment."
+10035,focused,3,0.3439,1,deep_work,now,Your mind is clear and ready. Try a focused deep-work session right now — it'll help you make the most of this moment.
+10036,restless,3,0.7222,0,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10037,focused,3,0.2405,1,journaling,now,Your mind is clear and ready. Try a few minutes of journaling right now — it'll help you make the most of this moment.
+10038,focused,3,0.6606,0,journaling,now,Your mind is clear and ready. Try a few minutes of journaling right now — it'll help you make the most of this moment.
+10039,mixed,3,0.728,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10040,restless,3,0.3029,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10041,overwhelmed,3,0.6222,0,box_breathing,within_15_min,You're carrying a lot right now. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10042,calm,3,0.4147,1,deep_work,within_15_min,"You're in a calm, centered place. Try a focused deep-work session in the next few minutes — it'll help you make the most of this moment."
+10043,restless,3,0.3589,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10044,calm,3,0.2901,1,light_planning,now,"You're in a calm, centered place. Try some light planning or a to-do list right now — it'll help you make the most of this moment."
+10045,restless,3,0.4364,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10046,focused,3,0.3305,1,journaling,now,Your mind is clear and ready. Try a few minutes of journaling right now — it'll help you make the most of this moment.
+10047,focused,3,0.7481,0,deep_work,now,Your mind is clear and ready. Try a focused deep-work session right now — it'll help you make the most of this moment.
+10048,calm,3,0.3332,1,deep_work,now,"You're in a calm, centered place. Try a focused deep-work session right now — it'll help you make the most of this moment."
+10049,restless,3,0.5267,0,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10050,restless,3,0.3888,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10051,calm,3,0.4443,1,deep_work,now,"You're in a calm, centered place. Try a focused deep-work session right now — it'll help you make the most of this moment."
+10052,calm,3,0.5141,0,deep_work,now,"You're in a calm, centered place. Try a focused deep-work session right now — it'll help you make the most of this moment."
+10053,calm,3,0.4654,1,deep_work,within_15_min,"You're in a calm, centered place. Try a focused deep-work session in the next few minutes — it'll help you make the most of this moment."
+10054,overwhelmed,3,0.245,1,box_breathing,within_15_min,You're carrying a lot right now. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10055,mixed,3,0.5804,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10056,neutral,3,0.6049,0,journaling,later_today,"You seem in a steady, balanced place. Try a few minutes of journaling a little later today — it'll help you make the most of this moment."
+10057,overwhelmed,3,0.7416,0,box_breathing,within_15_min,You're carrying a lot right now. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10058,overwhelmed,3,0.3074,1,box_breathing,within_15_min,You're carrying a lot right now. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10059,mixed,3,0.4039,1,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10060,restless,3,0.3974,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10061,calm,3,0.6083,0,journaling,now,"You're in a calm, centered place. Try a few minutes of journaling right now — it'll help you make the most of this moment."
+10062,calm,3,0.6736,0,journaling,now,"You're in a calm, centered place. Try a few minutes of journaling right now — it'll help you make the most of this moment."
+10063,restless,3,0.4177,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10064,neutral,3,0.618,0,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10065,neutral,3,0.8117,0,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10066,focused,3,0.3529,1,light_planning,within_15_min,Your mind is clear and ready. Try some light planning or a to-do list in the next few minutes — it'll help you make the most of this moment.
+10067,overwhelmed,3,0.2137,1,box_breathing,within_15_min,You're carrying a lot right now. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10068,overwhelmed,3,0.5966,0,box_breathing,now,You're carrying a lot right now. Try a short box-breathing exercise right now — it'll help you settle and reset.
+10069,neutral,3,0.6198,0,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10070,restless,3,0.7013,0,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10071,mixed,3,0.6425,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10072,neutral,3,0.543,0,journaling,later_today,"You seem in a steady, balanced place. Try a few minutes of journaling a little later today — it'll help you make the most of this moment."
+10073,restless,3,0.4348,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10074,mixed,3,0.7196,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10075,restless,3,0.4437,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10076,mixed,3,0.7145,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10077,neutral,3,0.6793,0,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10078,calm,3,0.2605,1,deep_work,now,"You're in a calm, centered place. Try a focused deep-work session right now — it'll help you make the most of this moment."
+10079,restless,3,0.7317,0,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10080,focused,3,0.2861,1,journaling,now,Your mind is clear and ready. Try a few minutes of journaling right now — it'll help you make the most of this moment.
+10081,restless,3,0.5332,0,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10082,restless,3,0.421,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10083,neutral,3,0.4754,1,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10084,overwhelmed,3,0.6521,0,box_breathing,now,You're carrying a lot right now. Try a short box-breathing exercise right now — it'll help you settle and reset.
+10085,neutral,3,0.2662,1,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10086,neutral,3,0.3934,1,journaling,later_today,"You seem in a steady, balanced place. Try a few minutes of journaling a little later today — it'll help you make the most of this moment."
+10087,mixed,3,0.6973,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10088,neutral,3,0.6536,0,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10089,calm,3,0.4483,1,light_planning,within_15_min,"You're in a calm, centered place. Try some light planning or a to-do list in the next few minutes — it'll help you make the most of this moment."
+10090,mixed,3,0.7865,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10091,neutral,3,0.8293,0,journaling,later_today,"You seem in a steady, balanced place. Try a few minutes of journaling a little later today — it'll help you make the most of this moment."
+10092,restless,3,0.436,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10093,mixed,3,0.558,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10094,focused,3,0.3922,1,journaling,within_15_min,Your mind is clear and ready. Try a few minutes of journaling in the next few minutes — it'll help you make the most of this moment.
+10095,overwhelmed,3,0.2041,1,box_breathing,within_15_min,You're carrying a lot right now. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10096,calm,3,0.2286,1,deep_work,within_15_min,"You're in a calm, centered place. Try a focused deep-work session in the next few minutes — it'll help you make the most of this moment."
+10097,restless,3,0.3533,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10098,overwhelmed,3,0.6065,0,box_breathing,now,You're carrying a lot right now. Try a short box-breathing exercise right now — it'll help you settle and reset.
+10099,mixed,3,0.327,1,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10100,mixed,3,0.6642,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10101,calm,3,0.6005,0,light_planning,within_15_min,"You're in a calm, centered place. Try some light planning or a to-do list in the next few minutes — it'll help you make the most of this moment."
+10102,overwhelmed,3,0.3418,1,box_breathing,within_15_min,You're carrying a lot right now. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10103,calm,3,0.7877,0,journaling,within_15_min,"You're in a calm, centered place. Try a few minutes of journaling in the next few minutes — it'll help you make the most of this moment."
+10104,mixed,3,0.6336,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10105,neutral,3,0.1772,1,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10106,neutral,3,0.4342,1,light_planning,later_today,"You seem in a steady, balanced place. Try some light planning or a to-do list a little later today — it'll help you make the most of this moment."
+10107,focused,3,0.3362,1,deep_work,within_15_min,Your mind is clear and ready. Try a focused deep-work session in the next few minutes — it'll help you make the most of this moment.
+10108,mixed,3,0.4317,1,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10109,neutral,3,0.6427,0,journaling,later_today,"You seem in a steady, balanced place. Try a few minutes of journaling a little later today — it'll help you make the most of this moment."
+10110,restless,3,0.2436,1,box_breathing,within_15_min,You seem to have restless energy that needs somewhere to go. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10111,mixed,4,0.548,0,box_breathing,within_15_min,Your feelings seem a bit tangled — that's completely okay. The intensity feels high — let's address it. Try a short box-breathing exercise in the next few minutes — it'll help you settle and reset.
+10112,mixed,3,0.6848,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10113,calm,3,0.4758,1,journaling,within_15_min,"You're in a calm, centered place. Try a few minutes of journaling in the next few minutes — it'll help you make the most of this moment."
+10114,calm,3,0.5705,0,journaling,now,"You're in a calm, centered place. Try a few minutes of journaling right now — it'll help you make the most of this moment."
+10115,calm,3,0.8396,0,journaling,now,"You're in a calm, centered place. Try a few minutes of journaling right now — it'll help you make the most of this moment."
+10116,focused,2,0.4184,1,journaling,now,"Your mind is clear and ready. It seems mild, so gentle action is enough. Try a few minutes of journaling right now — it'll help you make the most of this moment."
+10117,calm,4,0.5498,0,box_breathing,within_15_min,"You're in a calm, centered place. The intensity feels high — let's address it. Try a short box-breathing exercise in the next few minutes — it'll help you make the most of this moment."
+10118,focused,3,0.7264,0,deep_work,now,Your mind is clear and ready. Try a focused deep-work session right now — it'll help you make the most of this moment.
+10119,mixed,3,0.5829,0,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
+10120,mixed,3,0.2685,1,journaling,within_15_min,Your feelings seem a bit tangled — that's completely okay. Try a few minutes of journaling in the next few minutes — it'll help you settle and reset.
